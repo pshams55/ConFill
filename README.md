@@ -10,8 +10,6 @@ This repository is the official implementation of **ConFill**.
 This repository use code from [RePaint](https://github.com/andreas128/RePaint).
 
 ## Datasets
-Download models to train using `download.sh`.
-Unzip `gt_keep_mask.zip``
 
 ### CelebaHQ
 Download the CelebaHQ dataset and extract it as:
