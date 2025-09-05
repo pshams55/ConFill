@@ -2,7 +2,7 @@
 
 This repository is the official implementation of **ConFill**. 
 
-<td><img src="./arch-1.png" width="60%"></td>
+<td><img src="./arch-1.png" width="40%"></td>
 
 ## Requirements
 - python 3.10
