@@ -2,6 +2,8 @@
 
 This repository is the official implementation of **ConFill**. 
 
+<td><img src="[./blob/main/arch-1.png)" width="100%"></td>
+
 ## Requirements
 - python 3.10
 - pytorch 2.2.1+cu121
