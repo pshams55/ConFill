@@ -38,4 +38,4 @@ imagenet1k/val
 ```
 
 ### Places
-Download Places2 dataset and samples the 2000 test files by copying the 2000 files from `splits/places_2000_filesnames_test.txt` to a directory of your choice.
+Download Places2 dataset and samples 1000 images by copying files from `splits/places_1000_filesnames_test.txt` to the places2 directory.
